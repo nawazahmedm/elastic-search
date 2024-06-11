@@ -4,7 +4,7 @@ First Download the Elastic Search Server from the below URL
 
 https://www.elastic.co/
 
-Open command prompt elasticsearch-7.17.21\bin and run elasticsearch.bat to start the elastic search server.
+Upzip the elasticsearch and open command prompt elasticsearch-7.17.21\bin and run elasticsearch.bat to start the elastic search server.
 
 Open Postman and access http://localhost:9200/products
 
